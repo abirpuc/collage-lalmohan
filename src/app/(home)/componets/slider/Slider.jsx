@@ -1,7 +1,6 @@
 import { getData } from '@/app/api/getData'
 import React from 'react'
 import SliderContent from './SliderContent'
-import './style.css'
 import RouteContainer from '../Routecon/RouteContainer'
 
 
